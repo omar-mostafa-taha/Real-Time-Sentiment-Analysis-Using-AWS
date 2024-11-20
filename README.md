@@ -1,1 +1,1 @@
-# Sentiment-Analysis-AWS
+# Real-Time-Sentiment-Analysis-Using-AWS
